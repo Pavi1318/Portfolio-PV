@@ -1,0 +1,139 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Young Serif", serif;
+}
+
+.container {
+    padding: 50px;
+}
+
+.section-1 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-1__contact {
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.section-1__Name {
+    font-size: 60px;
+}
+
+.section-1__Role {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.section-2,
+.section-3,
+.section-4,
+.section-5,
+.section-6,
+.section-7,
+.section-8 {
+    margin-top: 20px;
+}
+
+.section-2__title,
+.section-3__title,
+.section-4__title,
+.section-5__title,
+.section-6__title,
+.section-7__title,
+.section-8__title {
+    margin-top: 20px;
+}
+
+.section-2__desc,
+.section-3__desc,
+.section-4__desc,
+.section-5__desc,
+.section-6__desc,
+.section-7__desc,
+.section-8__desc {
+    margin-top: 10px;
+}
+
+.section-8 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-8__title a {
+    color: aqua;
+}
+
+.section-3,
+.section-4,
+.section-5 ul,
+li,
+ol {
+    list-style: none;
+}
+
+.section-4{
+    background-color: #F7AEFE;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    width: 600px;
+    border-radius: 30px;
+    vertical-align: top;
+}
+.section-5{
+    background-color: #F7AEFE;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    width: 600px;
+    border-radius: 30px;
+    vertical-align: top;
+}
+
+.contactform{
+    margin-top: 20px;
+}
+
+.contactform__input,.contactform__textarea,.contactform__submit{
+     margin-top: 10px;
+}
+.contactform__input{
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+    
+}
+.contactform__textarea{
+     padding: 10px;
+    border: solid black 1px;
+}
+.contactform__submit{
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display: inline-block;
+    margin-top: 10px;
+    border: none;
+}
+    
