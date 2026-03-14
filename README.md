@@ -30,7 +30,7 @@ The main purpose of this portfolio is to create a professional online presence a
 If you would like to connect with me, feel free to reach out.
 
 * LinkedIn: https://www.linkedin.com/in/pavithra-b-6428751a6/
-* GitHub: https://github.com/your-username
+* GitHub: https://pavi1318.github.io/Portfolio-PV/
 
 ---
 
